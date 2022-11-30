@@ -1,5 +1,7 @@
 # [Creating First React App Monster Rolodex](https://canavar-rolodex-with-hooks-rhzpd2pe1-akintutkan.vercel.app/) 
-<b> Try it </b>
+
+#Try it
+
 All Monsters 
 ![Canavar-Rolodex-Main](https://user-images.githubusercontent.com/75329776/204899239-d7600fb2-31b1-4c0a-8dac-3dcabb291a5c.png)
 
